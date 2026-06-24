@@ -42,3 +42,5 @@ while c != attempt:
 
 if not guessed:
     print(f"Better luck Next time!!!! The number was {number}")
+
+input("/n Press enter to exit.....")
